@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**neil0x46dc/neil0x46dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a web3 Developer focusing on front-end and smart contract.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Getting ready for EthGlobal hackathon 2023; 
+- 🔮 Working on my dissertation; 
+- 💼 Looking for job opportunities; 
+
+##### BIO
+
+- 🏫 I'm currently studying at **NTU**
+- 💻 I use daily: `react.js`, `next.js`, `typescript`, `ethers.js`, `hardhat` 
+- 🐦 Please follow my twitter [@0x46dc](https://twitter.com/0x46dc) I retweet tons of memes everyday 
