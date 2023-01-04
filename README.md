@@ -13,3 +13,5 @@
 - 🏫 I'm currently studying at **NTU**
 - 💻 I use daily: `react.js`, `next.js`, `typescript`, `ethers.js`, `hardhat` 
 - 🐦 Please follow my twitter [@0x46dc](https://twitter.com/0x46dc) I retweet tons of memes everyday 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x46dc&layout=compact)](https://github.com/0x46dc/github-readme-stats)
